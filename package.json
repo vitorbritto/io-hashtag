@@ -1,0 +1,22 @@
+{
+  "name": "iohashtag",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitorbritto/io-hashtag"
+  },
+  "keywords": [
+    "iohashtag"
+  ],
+  "author": "Vitor Britto <code@vitorbritto.com.br> (http://vitorbritto.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorbritto/io-hashtag/issues"
+  },
+  "homepage": "https://github.com/vitorbritto/io-hashtag"
+}
